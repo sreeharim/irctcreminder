@@ -1,0 +1,17 @@
+ {
+    "title": "IRCTC Reminder",
+    "message": "Book Ticket",
+    "channel": "my_channel_id",
+    "ticker": "My Notification Ticker",
+    "auto_cancel": true,
+    "vibrate": true,
+    "vibration": 100,
+    "small_icon": "ic_notification",
+    "large_icon": "ic_launcher",
+    "play_sound": true,
+    "sound_name": "default",
+    "color": "red",
+    "schedule_once": true,
+    "tag": "some_tag",
+    "data": { "foo": "" }
+  }
